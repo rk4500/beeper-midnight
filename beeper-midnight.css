@@ -13,6 +13,13 @@
   --dialog-bg: var(--primary-color);      /* the background of dialogs */
   --left-panel-v2-bg-no-transparency--windows: var(--primary-color); /* variable that controls bg of source list on the very left of new layout */
   --left-panel-bg-no-transparency: var(--primary-color); /* variable that controls bg of source list on the very left of new layout */
+  --chatview__backgroundimage: var(--theme-chat-background-image); 
+  --theme-their-bubble-color: #232326;
+  --theme-chat-background-color: #000;
+  --main-panel-bg: #000;
+  --chatview__message_self__backgroundcolor: #10101F;
+  --chatview__composer__backgroundcolor: #10101F;
+    
 }
 
 /* Makes the input for custom CSS in Beeper preferences larger in order to make editing easier */
